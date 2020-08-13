@@ -1,4 +1,4 @@
-module.exports = fn => {
+module.exports = (fn) => {
   //anonymous function
   return (req, res, next) => {
     fn(req, res, next).catch(next); //catch(err => next(err))

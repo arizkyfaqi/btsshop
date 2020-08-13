@@ -3,7 +3,7 @@ const dotenv = require("dotenv");
 const mongoose = require("mongoose");
 dotenv.config({ path: "./config.env" });
 
-const DB = process.env.DATABASE_LOCAL;
+const DB = "mongodb://localhost:27017/btsshop";
 
 mongoose
   .connect(DB, {

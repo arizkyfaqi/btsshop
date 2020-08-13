@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "5f35849a61a279672c13482b"
+  },
+  "username": "melati123",
+  "email": "melati@example.com",
+  "password": "password123",
+  "phone": 628978990,
+  "country": "Indonesia",
+  "city": "bandung",
+  "postcode": 56440,
+  "name": "melati",
+  "address": "bandung barat",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f35966c760925337c80634d"
+  },
+  "username": "mawar123",
+  "email": "mawar@example.com",
+  "password": "password123",
+  "phone": 628978889,
+  "country": "Indonesia",
+  "city": "bandung",
+  "postcode": 56440,
+  "name": "mawar",
+  "address": "bandung timur",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f35968c760925337c80634e"
+  },
+  "username": "tulip123",
+  "email": "tulip@example.com",
+  "password": "password123",
+  "phone": 62897233389,
+  "country": "Indonesia",
+  "city": "bandung",
+  "postcode": 6732,
+  "name": "mawar",
+  "address": "bandung tengah",
+  "__v": 0
+}]

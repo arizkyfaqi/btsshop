@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "5f358d17c01f8e47d8286d47"
+  },
+  "createdDate": {
+    "$date": "2020-08-13T18:56:53.758Z"
+  },
+  "name": "this new shop updated",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f358d51c01f8e47d8286d48"
+  },
+  "createdDate": {
+    "$date": "2020-08-13T18:56:53.758Z"
+  },
+  "name": "this second shop",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f358d63c01f8e47d8286d49"
+  },
+  "createdDate": {
+    "$date": "2020-08-13T18:56:53.758Z"
+  },
+  "name": "this therd shop",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f359bde3ddc385d2c5c7029"
+  },
+  "createdDate": {
+    "$date": "2020-08-13T19:57:22.778Z"
+  },
+  "name": "this forth shop",
+  "__v": 0
+}]
